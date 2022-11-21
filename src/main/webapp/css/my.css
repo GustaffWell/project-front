@@ -1,0 +1,46 @@
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+
+table {
+    background-color: #45353f;
+}
+
+html {
+    background-color: black;
+    color: white;
+}
+
+.pgn-btn-styled {
+    margin-left: 10px;
+}
+
+.select_head {
+    margin-bottom: 35px;
+}
+
+.create_label {
+    width: 50px;
+}
+
+.create_field {
+    width: 150px;
+    margin-left: 50px;
+}
+
+.input_field {
+    width: 200px;
+}
+
+.create {
+    display: flex;
+}
+
+.save_button {
+    margin-left: 100px;
+    background-color: #45353f;
+    color: white;
+    border: 3px solid white;
+}
+
